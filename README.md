@@ -14,3 +14,5 @@ http://localhost:9001/swagger-ui.html#
    5. Append your database name, username and password in the ***application.properties*** file.<br>
 4. It's done! Go ahead and run the application.   
          
+![Screenshot (243)](https://user-images.githubusercontent.com/53297570/166265132-71fe0e84-dfbe-4dc4-90fb-585617feae1d.png)
+![Screenshot (242)](https://user-images.githubusercontent.com/53297570/166265185-fb99d640-3843-4d09-9584-fae4fe894b74.png)
